@@ -70,6 +70,22 @@ The three-way intersection identified 9 genes shared across all three independen
 
 The strongest pairwise overlap was observed between GSE100026 and GSE140385, with 96 shared genes.
 
+### Heatmap Comparison
+
+![Heatmap Comparison](results/heatmap_comparison.jpeg)
+
+### Volcano Plot Comparison
+
+![Volcano Plot Comparison](results/volcanoplot_comparison.jpeg)
+
+### PCA Plot Comparison
+
+![PCA Plot Comparison](results/pcaplot_comparison.jpeg)
+
+### GeneMANIA Network
+
+![GeneMANIA Network](results/genemania.png)
+
 ## Interpretation
 
 The individual genes reported in the original study were not reproduced exactly. However, several of the biological mechanisms described in the original study were also observed in the independent human CML datasets.
