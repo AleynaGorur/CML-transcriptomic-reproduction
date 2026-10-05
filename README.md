@@ -60,6 +60,16 @@ Functional analysis indicated that these genes were mainly associated with:
 
 GeneMANIA analysis showed strong co-expression relationships among the shared genes. CCR7 emerged as a potential hub gene candidate.
 
+### Three-Dataset Overlap Analysis
+
+![Three-Dataset Overlap](results/venn/three_dataset_overlap.png)
+
+The three-way intersection identified 9 genes shared across all three independent human CML datasets:
+
+**CCR7, MGST2, EPHB4, NDFIP1, HLA-DRB1, SLAMF8, MAP1A, ENPP2, COL18A1.**
+
+The strongest pairwise overlap was observed between GSE100026 and GSE140385, with 96 shared genes.
+
 ## Interpretation
 
 The individual genes reported in the original study were not reproduced exactly. However, several of the biological mechanisms described in the original study were also observed in the independent human CML datasets.
